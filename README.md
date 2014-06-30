@@ -27,7 +27,7 @@ The start of an application for a local community to schedule thermal imaging ca
 
 ### Team
 
-- George ([@ghickman](https://github.com/ghickman)) (until J-P kicked him out!)
+- George ([@ghickman](https://github.com/ghickman)) (until he ran away from the PHP)
 - J-P ([@jpstacey](https://github.com/jpstacey))
 
 ### Technology (if you can call Drupal 'technology')
